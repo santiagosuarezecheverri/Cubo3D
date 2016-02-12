@@ -1,0 +1,5 @@
+c:\users\santiago\documents\visual studio 2015\Projects\Cube3DConsole\Cube3DConsole\obj\Debug\Cube3DConsole.csprojResolveAssemblyReference.cache
+c:\users\santiago\documents\visual studio 2015\Projects\Cube3DConsole\Cube3DConsole\bin\Debug\Cube3DConsole.exe
+c:\users\santiago\documents\visual studio 2015\Projects\Cube3DConsole\Cube3DConsole\bin\Debug\Cube3DConsole.pdb
+c:\users\santiago\documents\visual studio 2015\Projects\Cube3DConsole\Cube3DConsole\obj\Debug\Cube3DConsole.exe
+c:\users\santiago\documents\visual studio 2015\Projects\Cube3DConsole\Cube3DConsole\obj\Debug\Cube3DConsole.pdb
